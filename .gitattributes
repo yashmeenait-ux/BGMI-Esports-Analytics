@@ -1,0 +1,5 @@
+* text=auto
+*.csv text
+*.sql text
+*.md text
+*.html text
